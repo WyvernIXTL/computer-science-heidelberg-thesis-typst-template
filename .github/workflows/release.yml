@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          lfs: true
 
       - name: Install just
         uses: taiki-e/install-action@v2
@@ -51,6 +53,7 @@ jobs:
           repository: ${{ env.REGISTRY_REPO }}
           token: ${{ secrets.REGISTRY_TOKEN }}
           path: typst-packages
+          persist-credentials: true
 
       - name: Release package
         run: |

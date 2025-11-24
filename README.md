@@ -2,17 +2,15 @@
 
 A template for writing a bachelor's or master's computer science thesis at the University Heidelberg.
 
-![thumbnail](./thumbnail.png)
-
 ## Usage
 
 Either initialize the template via
 ```sh
-typst init @preview/computer-science-thesis-hd:0.1.0
+typst init @preview/computer-science-thesis-hd:0.1.4
 ```
 Or use the cover function standalone:
 ```typ
-#import "@preview/computer-science-thesis-hd:0.1.0": *
+#import "@preview/computer-science-thesis-hd:0.1.4": *
 
 /// This function creates the a title page that fulfills the requirements
 /// that the Institut für Informatik of Heidelberg University has for a bachelor or master thesis.
@@ -44,3 +42,7 @@ Or use the cover function standalone:
 
 This template is licensed under the [Unlicense license](./LICENSE).
 
+
+## Images
+
+![thumbnail](./thumbnail.png)

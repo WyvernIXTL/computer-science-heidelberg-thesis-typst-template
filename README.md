@@ -12,6 +12,8 @@ typst init @preview/computer-science-thesis-hd:0.1.0
 ```
 Or use the cover function standalone:
 ```typ
+#import "@preview/computer-science-thesis-hd:0.1.0": *
+
 /// This function creates the a title page that fulfills the requirements
 /// that the Institut für Informatik of Heidelberg University has for a bachelor or master thesis.
 #cs-thesis-cover(

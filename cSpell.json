@@ -5,6 +5,7 @@
         "Justfile",
         "mytool",
         "pagebreak",
+        "typst",
         "typstignore"
     ]
 }

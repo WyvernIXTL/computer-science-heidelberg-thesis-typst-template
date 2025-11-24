@@ -1,6 +1,6 @@
 
 #import "@preview/rubber-article:0.5.0": *
-#import "../src/lib.typ": *
+#import "@preview/computer-science-heidelberg-thesis:0.1.0": *
 
 // === Settings ===
 

@@ -1,3 +1,7 @@
+// Copyright (C) 2025 Adam McKellar
+//
+// This source code is licensed under the Unlicense license.
+
 
 /// This function creates the a title page that fulfills the requirements
 /// that the Institut für Informatik of Heidelberg University has for a bachelor or master thesis.

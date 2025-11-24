@@ -1,5 +1,4 @@
 # Computer Science Bachelor or Master Thesis Typst Template for the University Heidelberg
-<div align="center">Version 0.1.0</div>
 
 A template for writing a bachelor's or master's computer science thesis at the University Heidelberg.
 

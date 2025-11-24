@@ -3,6 +3,7 @@
         "github",
         "Justfile",
         "mytool",
+        "pagebreak",
         "typstignore"
     ]
 }

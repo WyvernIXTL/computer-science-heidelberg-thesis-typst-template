@@ -2,6 +2,8 @@
 
 A template for writing a bachelor's or master's computer science thesis at the University Heidelberg.
 
+The cover is available in english and german! Switch the language via the `language` option (see the Usage).
+
 ## Usage
 
 Either initialize the template via
@@ -34,6 +36,7 @@ Or use the cover function standalone:
   /// The date of your submission [anything]
   date-submission: [#datetime.today().display()],
   /// Language of your thesis ["en" OR "de"]
+  /// This switches in what language your cover is displayed.
   language: "de",
 )
 ```

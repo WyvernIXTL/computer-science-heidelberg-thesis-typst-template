@@ -20,7 +20,8 @@ exclude = [
   ".typstignore",
   "Justfile",
   "thumbnail.png",
-  "cSpell.json"
+  "cSpell.json",
+  "images"
 ]
 
 [template]

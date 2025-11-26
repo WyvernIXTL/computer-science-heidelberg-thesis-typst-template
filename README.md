@@ -66,4 +66,9 @@ This template is licensed under the [Unlicense license](./LICENSE).
 
 ## Images
 
+* [English example pdf]()
+* [German example pdf]()
+
 ![thumbnail](./thumbnail.png)
+
+![thumbnail german](./images/thumbnail-de.png)

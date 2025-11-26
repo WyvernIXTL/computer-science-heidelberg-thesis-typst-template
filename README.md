@@ -6,11 +6,11 @@ A template for writing a bachelor's or master's computer science thesis at the U
 
 Either initialize the template via
 ```sh
-typst init @preview/computer-science-thesis-hd:0.1.5
+typst init @preview/covered-cs-thesis:0.1.5
 ```
 Or use the cover function standalone:
 ```typ
-#import "@preview/computer-science-thesis-hd:0.1.5": *
+#import "@preview/covered-cs-thesis:0.1.5": *
 
 /// This function creates the a title page that fulfills the requirements
 /// that the Institut für Informatik of Heidelberg University has for a bachelor or master thesis.

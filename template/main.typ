@@ -1,6 +1,6 @@
 
 #import "@preview/rubber-article:0.5.0": *
-#import "@preview/computer-science-thesis-hd:0.1.5": *
+#import "@preview/covered-cs-thesis:0.1.5": *
 
 // === Settings ===
 

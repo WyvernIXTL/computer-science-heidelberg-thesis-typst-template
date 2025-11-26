@@ -66,8 +66,8 @@ This template is licensed under the [Unlicense license](./LICENSE).
 
 ## Images
 
-* [English example pdf]()
-* [German example pdf]()
+* [English example pdf](https://github.com/WyvernIXTL/computer-science-heidelberg-thesis-typst-template/releases/download/v0.1.5/covered-cs-thesis-0.1.5-english-example.pdf)
+* [German example pdf](https://github.com/WyvernIXTL/computer-science-heidelberg-thesis-typst-template/releases/download/v0.1.5/covered-cs-thesis-0.1.5-german-example.pdf)
 
 ![thumbnail](./thumbnail.png)
 

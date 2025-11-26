@@ -1,6 +1,10 @@
-# Computer Science Bachelor or Master Thesis Typst Template for the University Heidelberg
+<div align="center">
 
-A template for writing a bachelor's or master's computer science thesis at the University Heidelberg.
+# `covered-cs-thesis`
+
+**A template for writing a bachelor's or master's computer science thesis at the University Heidelberg.**
+
+</div>
 
 The cover is available in **english** and **german**! Switch the language via the `language` option (see the Usage).
 

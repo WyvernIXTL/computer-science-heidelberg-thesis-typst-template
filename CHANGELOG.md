@@ -17,13 +17,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+* Template being in the wrong categories.
+
 ### Security
 
 ## 0.1.5 - 2025-11-26
 
 ### Added
 
-* Separated german and english examples. 
+* Separated German and English examples. 
 
 
 ### Changed
@@ -37,5 +39,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 0.1.0 - 2025-11-23
 
-Initial version with cover and declaration of independence.
+Initial version with cover and declaration of originality.
 
